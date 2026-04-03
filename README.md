@@ -50,8 +50,3 @@ Welcome to the **DonGfeng App**, a premium, high-end Flutter application designe
 ## 🛠️ Built With
 
 - [Flutter](https://flutter.dev/) - The UI framework.
-- [flutter_svg](https://pub.dev/packages/flutter_svg) - For high-quality vector graphics.
-
----
-
-*Developed with ❤️ for the future of driving.*
